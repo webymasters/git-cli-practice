@@ -10,3 +10,6 @@ This will ask you to add the commit message, give the relevant message and end t
 
 Q-3 Assuming that you are currently within a Git repository, write the command (or commands) that will display any uncommitted changes made to the file named 'README.md'.
 A-3 git diff README.md
+
+Q-4 Assuming that you are currently within a Git repository, write the command (or commands) that will display the changes from the commit with the ID of abc123.
+A-4 git show abc123
