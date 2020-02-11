@@ -17,4 +17,5 @@ A-4 git show abc123
 Q-5 Assuming that you are currently within a Git repository, write the command (or commands) that will display the ID and commit message for the 3 most recent commits.
 A-5  git log --oneline -3
 
-
+Q-6 Assuming that you are currently within a Git repository, write the command (or commands) that will check to see if the remote repository contains any new commits.
+A-6 git fetch
