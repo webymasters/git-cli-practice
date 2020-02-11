@@ -8,3 +8,5 @@ Q-2 Assuming that you are currently within a Git repository, write the command (
 A-2 git add hello-world.txt && git commit
 This will ask you to add the commit message, give the relevant message and end the file using :wq
 
+Q-3 Assuming that you are currently within a Git repository, write the command (or commands) that will display any uncommitted changes made to the file named 'README.md'.
+A-3 git diff README.md
